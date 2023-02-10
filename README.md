@@ -1,8 +1,6 @@
 # Lab Class 18 - AWS: API Gateway, Lambda, and DynamoDB
 # Documentation
 
-## UML diagram 
-
 ## What is the root URL to your API?
 - dynamodb:us-west-2:639185967817:table/books
 
